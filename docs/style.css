@@ -24,6 +24,7 @@ a {
   color: #fcf7f8;
   font-weight: 900;
 }
-#my {
-    zoom: 130%;
+@viewport {
+    width: device-width ;
+    zoom: 1.0 ;
 }
