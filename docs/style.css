@@ -8,11 +8,12 @@ body {
     background-repeat: no-;
     background-size: cover;
     font-family: 'Gruppo';
+    font-size: 25px;
 }
 mark {
-    background-color: black; 
+    background-color: #fcf7f8; 
     border-radius: 5px;
-    color: #fcf7f8;
+    color: black;
 }
 .header {
     font-size: 30px;
@@ -20,7 +21,7 @@ mark {
 a {
   text-decoration: none;
   backdrop-filter: blur(5px);
-  border: 2px solid black;
+  border: 2px solid purple;
   border-radius: 50%;
   color: #fcf7f8;
   font-weight: 900;
