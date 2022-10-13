@@ -1,32 +1,19 @@
 body {
     text-align: center;
     margin: auto;
-    color       : black;
+    color: #fcf7f8;
     background-image: url("./Background1.jpg");
     height: 100%;
     background-position: center;
-    background-repeat: no-repeat;
+    background-repeat: no-;
     background-size: cover;
+    font-family: 'Gruppo';
 }
 mark {
-    background-color: #fcf7f8;
+    background-color: black; 
     border-radius: 5px;
+    color: #fcf7f8;
 }
 .header {
-    font-family: 'Gruppo';
     font-size: 30px;
-}
-svg {
-    font-family: 'Gruppo';
-    margin: auto;
-}
-text {
-    fill            : black;
-    stroke          : #fcf7f8;
-    stroke-width    : .1px;
-    stroke-linejoin : round;
-    animation       : 2s pulsate infinite;
-}
-@keyframes pulsate {
-    50%{ stroke-width:5px }
 }
