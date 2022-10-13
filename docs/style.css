@@ -9,14 +9,12 @@ body {
     background-size: cover;
     font-family: 'Gruppo';
     font-size: 25px;
+    font-size: 1.5vw;
 }
 mark {
     background-color: #fcf7f8; 
     border-radius: 5px;
     color: black;
-}
-.header {
-    font-size: 30px;
 }
 a {
   text-decoration: none;
