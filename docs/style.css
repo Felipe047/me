@@ -3,6 +3,7 @@ body {
     text-align: center;
     margin: auto;
     color       : black;
+    background-image: url("./texture-background.jpg")
 }
 mark {
     background-color: #fcf7f8;
