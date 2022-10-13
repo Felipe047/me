@@ -2,7 +2,7 @@ body {
     text-align: center;
     margin: auto;
     color: #fcf7f8;
-    background-image: url("./Background1.jpg");
+    background-image: url("./img/Background1.jpg");
     height: 100%;
     background-position: center;
     background-repeat: no-;
@@ -16,4 +16,12 @@ mark {
 }
 .header {
     font-size: 30px;
+}
+a {
+  text-decoration: none;
+  backdrop-filter: blur(5px);
+  border: 2px solid black;
+  border-radius: 50%;
+  color: #fcf7f8;
+  font-weight: 900;
 }
