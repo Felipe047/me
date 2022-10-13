@@ -1,9 +1,12 @@
 body {
-    background-color: #2e294e;
     text-align: center;
     margin: auto;
     color       : black;
-    background-image: url("./texture-background.jpg")
+    background-image: url("./Background1.jpg");
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 mark {
     background-color: #fcf7f8;
@@ -24,10 +27,6 @@ text {
     stroke-linejoin : round;
     animation       : 2s pulsate infinite;
 }
-div {
-    background-color: #2e294e;
-}
-
 @keyframes pulsate {
     50%{ stroke-width:5px }
 }
