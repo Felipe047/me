@@ -1,2 +1,2 @@
 # me
-This is a virtual resume to showcase my abilities in a website.
+This is my virtual business card.
